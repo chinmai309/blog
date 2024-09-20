@@ -239,6 +239,7 @@
       "it": 40,
       "title": "Building Trust in Relationships",
       "body": "Trust is the foundation of strong relationships. Open communication and honesty foster a safe space for deeper connections."
+<<<<<<< HEAD
     },
     {
       "userId": 1,
@@ -269,6 +270,8 @@
       "it": 45,
       "title": "Overcoming Limiting Beliefs",
       "body": "Limiting beliefs hold us back. Challenging and reframing these thoughts empowers us to reach our full potential."
+=======
+>>>>>>> f4a1151e1c984a5797c93aff1270c57a24a892a2
     }
   ]
 }

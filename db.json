@@ -25,37 +25,37 @@
         "body": "Each choice shapes our reality. To reject negativity is to embrace a brighter path filled with possibilities and hope."
       },
       {
-        "userId": 1,
+        "userId": 3,
         "id": 5,
         "title": "Seeking Forgiveness",
         "body": "Forgiveness is a powerful act. It liberates us from the chains of resentment and opens our hearts to love and understanding."
       },
       {
-        "userId": 1,
+        "userId": 3,
         "id": 6,
         "title": "Navigating Pain with Grace",
         "body": "Pain is an inevitable part of life. Navigating id with grace allows us to emerge stronger and more compassionate."
       },
       {
-        "userId": 1,
+        "userId": 4,
         "id": 7,
         "title": "The Wisdom of Experience",
         "body": "Experience teaches us invaluable lessons. Each moment, whether joyous or painful, contributes to our wisdom and growth."
       },
       {
-        "userId": 1,
+        "userId": 4,
         "id": 8,
         "title": "Cultivating Inner Strength",
         "body": "Inner strength is cultivated through adversity. Embracing challenges builds resilience and prepares us for future trials."
       },
       {
-        "userId": 1,
+        "userId": 5,
         "id": 9,
         "title": "The Truth Behind Pain",
         "body": "Understanding pain reveals its truth. It is not merely a hindrance but a catalyst for profound personal evolution."
       },
       {
-        "userId": 1,
+        "userId": 5,
         "id": 10,
         "title": "Choosing Our Response",
         "body": "While we cannot control events, we can choose our responses. Our reactions define our journey and shape our experiences."
@@ -119,6 +119,66 @@
       "id": 20,
       "title": "Navigating Life’s Transitions",
       "body": "Life transitions can be daunting, but they also bring new beginnings. Embracing them opens the door to fresh experiences and growth."
+    },
+    {
+      "userId": 1,
+      "it": 21,
+      "title": "Cultivating Mindfulness",
+      "body": "Mindfulness helps us stay present. By focusing on the moment, we can reduce stress and enhance our overall well-being."
+    },
+    {
+      "userId": 1,
+      "it": 22,
+      "title": "The Role of Empathy",
+      "body": "Empathy bridges gaps between individuals. Understanding others' feelings fosters compassion and strengthens our connections."
+    },
+    {
+      "userId": 1,
+      "it": 23,
+      "title": "Harnessing Creativity",
+      "body": "Creativity is a powerful tool for problem-solving. Embracing creative thinking can lead to innovative solutions in our lives."
+    },
+    {
+      "userId": 1,
+      "it": 24,
+      "title": "Building a Growth Mindset",
+      "body": "A growth mindset encourages us to view challenges as opportunities. Embracing this perspective promotes lifelong learning."
+    },
+    {
+      "userId": 1,
+      "it": 25,
+      "title": "The Power of Positivity",
+      "body": "Positivity can transform our outlook on life. Focusing on the good helps us navigate challenges with resilience and hope."
+    },
+    {
+      "userId": 1,
+      "it": 26,
+      "title": "Learning from Failure",
+      "body": "Failure is not the end; it’s a stepping stone to success. Each setback provides lessons that propel us forward."
+    },
+    {
+      "userId": 1,
+      "it": 27,
+      "title": "Setting Healthy Boundaries",
+      "body": "Healthy boundaries are essential for well-being. They protect our energy and foster healthier relationships with others."
+    },
+    {
+      "userId": 1,
+      "it": 28,
+      "title": "The Journey to Self-Acceptance",
+      "body": "Self-acceptance is a vital aspect of personal growth. Embracing our flaws allows us to cultivate genuine self-love."
+    },
+    {
+      "userId": 1,
+      "it": 29,
+      "title": "The Importance of Listening",
+      "body": "Active listening fosters understanding. By truly hearing others, we build trust and strengthen our connections."
+    },
+    {
+      "userId": 1,
+      "it": 30,
+      "title": "Creating a Vision for the Future",
+      "body": "Having a clear vision guides our actions. Setting goals provides direction and motivation for personal and professional growth."
     }
   ]
 }

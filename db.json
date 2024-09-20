@@ -1,16 +1,64 @@
 {
-    "todos": [
-      {
-        "id": 1,
-        "title": "To review codes"
-      },
-      {
-        "id": 2,
-        "title": "To answer emails"
-      },
-      {
-        "id": 3,
-        "title": "To attend meetings"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "userId": 1,
+      "it": 1,
+      "title": "The Nature of Acceptance",
+      "body": "Acceptance often leads to greater understanding. When we embrace our choices, we unlock the potential for growth and wisdom."
+    },
+    {
+      "userId": 1,
+      "it": 2,
+      "title": "Embracing Life's Challenges",
+      "body": "In times of struggle, we find our true selves. Pain is not merely an obstacle; it can be a teacher guiding us toward resilience."
+    },
+    {
+      "userId": 1,
+      "it": 3,
+      "title": "Finding Joy in Discomfort",
+      "body": "The discomfort we face can lead to profound joy. By confronting our fears, we discover the beauty of perseverance and triumph."
+    },
+    {
+      "userId": 1,
+      "it": 4,
+      "title": "The Power of Choice",
+      "body": "Each choice shapes our reality. To reject negativity is to embrace a brighter path filled with possibilities and hope."
+    },
+    {
+      "userId": 1,
+      "it": 5,
+      "title": "Seeking Forgiveness",
+      "body": "Forgiveness is a powerful act. It liberates us from the chains of resentment and opens our hearts to love and understanding."
+    },
+    {
+      "userId": 1,
+      "it": 6,
+      "title": "Navigating Pain with Grace",
+      "body": "Pain is an inevitable part of life. Navigating it with grace allows us to emerge stronger and more compassionate."
+    },
+    {
+      "userId": 1,
+      "it": 7,
+      "title": "The Wisdom of Experience",
+      "body": "Experience teaches us invaluable lessons. Each moment, whether joyous or painful, contributes to our wisdom and growth."
+    },
+    {
+      "userId": 1,
+      "it": 8,
+      "title": "Cultivating Inner Strength",
+      "body": "Inner strength is cultivated through adversity. Embracing challenges builds resilience and prepares us for future trials."
+    },
+    {
+      "userId": 1,
+      "it": 9,
+      "title": "The Truth Behind Pain",
+      "body": "Understanding pain reveals its truth. It is not merely a hindrance but a catalyst for profound personal evolution."
+    },
+    {
+      "userId": 1,
+      "it": 10,
+      "title": "Choosing Our Response",
+      "body": "While we cannot control events, we can choose our responses. Our reactions define our journey and shape our experiences."
+    }
+  ]
+}
